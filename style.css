@@ -5,15 +5,15 @@ html, body {
 }
 
 frameset {
-    border: 2px solid #333;
-    border-radius: 20px;
+    border: none;
+    border-radius: none;
     overflow: hidden;
     transition: border-color 3s ease-in-out;
 }
 
 frame {
-    border: 2px solid #555;
-    border-radius: 5px;
+    border: none;
+    border-radius: none;
     transition: border-color 0.3s ease-in-out, background-color 0.3s ease-in-out;
 }
 
